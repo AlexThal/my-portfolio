@@ -17,7 +17,7 @@ h1{
 
 .card-one {
   height: 620px;
-  background: #99C4C2;;
+  background: #99C4C2;
   padding: 40px;
 }
 .name{
@@ -33,9 +33,9 @@ h1{
   align-items: center;
 }
 .input-card-one p{
-  color: #4A2570;
-  font-size: 24px;
-  margin-right: 40px;
+  color: #4a2570a3;
+  font-size: 20px;
+  margin-right: 36px;
 }
 #button-one {
   color: #4A2570;
@@ -55,21 +55,12 @@ h1{
   align-items: center;
 }
 .hero {
-  /* flex: 2 0px; */
-  /* flex-grow: 2; */
   width: 900px;
   margin-right: 70px;
 }
 .avatar{
   border-radius: 50%;
 }
-/* .hero-image{
-  width: 300px;
-  margin-left: 48px;
-} */
-/* .hero-image img{
-  width: 400px;
-} */
 
 .card-two {
   display: flex;
